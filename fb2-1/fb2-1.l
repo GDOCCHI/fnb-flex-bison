@@ -26,4 +26,4 @@ int main(int argc, char **argv) {
  }
 }
 
-int yywrap() { return 1; }
+//int yywrap() { return 1; }
