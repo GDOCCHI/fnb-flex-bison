@@ -738,7 +738,7 @@ do_action:	/* This label is used only to access EOF actions. */
 case 1:
 YY_RULE_SETUP
 #line 2 "fb1-2.l"
-{ printf("flavor"); }
+{ printf("color"); }
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
